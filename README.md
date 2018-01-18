@@ -1,10 +1,7 @@
 #GPanelCP
 
 Version: 1.0.1
-Website
-Documentation
-Forums for comments, discussion and community support
-Bug Tracker for any bugs or security related issues.
+
 ##Description
 
 GPanel is an open-source web hosting control panel written in PHP and is compatible with POSIX (Linux, UNIX, MacOSX and the BSD's).
