@@ -1,4 +1,4 @@
-#GPanelCP
+#GPanel
 
 * Version: 1.0.1
 * [Website](http://www.webtarahan.net/)
